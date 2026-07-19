@@ -1,0 +1,4 @@
+qa-*.png
+*.tar.gz
+caddy-config-*.json
+.DS_Store
