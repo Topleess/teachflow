@@ -6,7 +6,7 @@ Hybrid of **Editorial Human** and **Canvas Bold**: a calm premium editorial fram
 ## Product brief
 - Actor: independent teacher, small school or methodology team.
 - Job: understand the product and decide whether to discuss a pilot.
-- Primary action: open the pilot contact form.
+- Primary action: open the pilot contact modal and continue to Telegram.
 - Evidence: a concrete lesson flow from source material through collaborative work to homework.
 - Posture: human, editorial, warm, inventive, credible.
 - Avoid: generic AI-SaaS gradients, fake metrics, fake testimonials, dense LMS dashboards.
@@ -21,4 +21,4 @@ Hybrid of **Editorial Human** and **Canvas Bold**: a calm premium editorial fram
 Desktop uses a wide editorial frame and freely composed lesson cards. On mobile, the lesson cards become a readable vertical sequence; decorative cursors and the secondary homework card are removed.
 
 ## Content boundaries
-No customer claims, integrations, launch dates, security promises, testimonials or performance metrics are asserted. The contact form is intentionally marked as a non-sending demonstration until a real endpoint is selected.
+No customer claims, integrations, launch dates, security promises, testimonials or performance metrics are asserted. The page presents the product direction and a pilot invitation, not completed platform functionality. Contact continues through the public Telegram profile; the page itself stores no personal data.
